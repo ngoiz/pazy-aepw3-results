@@ -4,7 +4,8 @@ Results for simulations/experiments conducted on the Pazy wing
 
 Currently available:
   
-  * `01_Bending`: static bending experimental and computational comparison. Mass placed at the wing tip
+  * `01_Bending`: static bending experimental and computational comparison. Mass placed mid-chord at the wing-tip
+  * `02_Torsion`: static twisting experimental and computational comparison. Mass placed 80mm ahead of leading edge at the wing-tip
   
 ## Contributing
 
