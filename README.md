@@ -8,6 +8,8 @@ Currently available:
   
   * `01_Bending`: static bending experimental and computational comparison. Mass placed mid-chord at the wing-tip
   * `02_Torsion`: static twisting experimental and computational comparison. Mass placed 80mm ahead of leading edge at the wing-tip
+  * `03_StaticAeroelastic`: coupled aeroelastic static solution at various angles of attack. Computational and experimental comparison
+  * `04_DeformedModal`: change of structural modal frequencies with deformation caused by aerodynamic loading
   
 ## SHARPy and the Pazy wing model
 
