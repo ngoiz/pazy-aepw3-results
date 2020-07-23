@@ -11,6 +11,7 @@ Currently available:
   * `03_StaticAeroelastic`: coupled aeroelastic static solution at various angles of attack. Computational and experimental comparison
   * `04_DeformedModal`: change of structural modal frequencies with deformation caused by aerodynamic loading
   * `05_StraightWingFlutter`: stability analysis of the Pazy wing at zero degree angle of attack (straight wing)
+  * `06_DeformedWingFlutter`: stability analysis of the Pazy wing deformed by the aerodynamic loading caused by non-zero angles of attack
   
 ## SHARPy and the Pazy wing model
 
