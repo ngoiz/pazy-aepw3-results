@@ -1,1 +1,1 @@
-Flutter speed = 80.0031 m/s
+Flutter speed = 65.0016 m/s
