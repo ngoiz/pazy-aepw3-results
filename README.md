@@ -33,7 +33,7 @@ Feel free to add your own set of results. From the Jupyter notebook file in each
 
 ## Citing
 
-This dataset is archived in Zenodo and can be cited using DOI: 
+This dataset is archived in Zenodo and can be cited using DOI: [![DOI](https://zenodo.org/badge/279644088.svg)](https://zenodo.org/badge/latestdoi/279644088)
 
 ## References
 
