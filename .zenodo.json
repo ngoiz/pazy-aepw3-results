@@ -1,42 +1,36 @@
 {
-  "metadata": {
-    "title": "Results on the Pazy Wing Model 1 for the 3rd Aeroelastic Prediction Workshop", 
+    "license": "other-open", 
+    "title": "Results on the Pre-Pazy Wing Model for the 3rd Aeroelastic Prediction Workshop", 
+    "upload_type": "dataset", 
     "creators": [
-      {
-        "orcid": "0000-0001-7445-5970", 
-        "affiliation": "Imperial College London", 
-        "name": "Norberto Goizueta"
-      }, 
-      {
-        "orcid": "0000-0002-9030-7799", 
-        "affiliation": "University of Michigan", 
-        "name": "Cristina Riso"
-      }, 
-      {
-        "affiliation": "Technion  - Israel Institute of Technology", 
-        "name": "Ariel Drachinsky"
-      }, 
-      {
-        "orcid": "0000-0002-6706-3220", 
-        "affiliation": "Imperial College London", 
-        "name": "Rafael Palacios"
-      }, 
-      {
-        "orcid": "0000-0002-5633-8815", 
-        "affiliation": "University of Michigan", 
-        "name": "Carlos Cesnik"
-      }, 
-      {
-        "affiliation": "Technion  - Israel Institute of Technology", 
-        "name": "Daniella Raveh"
-      }
+        {
+            "orcid": "0000-0001-7445-5970", 
+            "affiliation": "Imperial College London", 
+            "name": "Norberto Goizueta"
+        }, 
+        {
+            "orcid": "0000-0002-9030-7799", 
+            "affiliation": "University of Michigan", 
+            "name": "Cristina Riso"
+        }, 
+        {
+            "affiliation": "Technion  - Israel Institute of Technology", 
+            "name": "Ariel Drachinsky"
+        }, 
+        {
+            "orcid": "0000-0002-6706-3220", 
+            "affiliation": "Imperial College London", 
+            "name": "Rafael Palacios"
+        }, 
+        {
+            "orcid": "0000-0002-5633-8815", 
+            "affiliation": "University of Michigan", 
+            "name": "Carlos Cesnik"
+        }, 
+        {
+            "affiliation": "Technion  - Israel Institute of Technology", 
+            "name": "Daniella Raveh"
+        }
     ], 
-    "access_right": "open", 
-    "resource_type": {
-      "type": "dataset", 
-      "title": "Dataset"
-    }, 
-      }
-    ]
-  }
+    "access_right": "open"
 }
