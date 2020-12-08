@@ -1,5 +1,7 @@
 # Pazy Wing Analysis Results
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4299868.svg)](https://doi.org/10.5281/zenodo.4299868)
+
 Results for simulations/experiments conducted on the Pazy wing model #1 (or Pre-Pazy wing).
 
 The results are presented in Jupyter notebooks in the respective folders which you should be able to view from within Github.
@@ -19,7 +21,7 @@ The data presented herein has so far been published in:
 
   * Goizueta, N., Wynn, A., Palacios, R., Drachinksy, A., and Raveh, D. E., “Flutter Predictions for Very Flexible Wing WindTunnel Test,” AIAA Scitech 2021 Forum, 2020.
   * Riso, C., and Cesnik, C. E. S., “UM/NAST Experimental Validation Using the Pazy Wing Aeroelastic Benchmark,” AIAA Scitech Forum, 2021.
-  * Drachinsky, A., and Raveh, D. E., “Nonlinear Aeroelastic Analysis of Highly Flexible Wings Using the Modal Rotation Method,”AIAA Scitech Forum, 2021.
+  * Drachinsky, A., and Raveh, D. E., “Nonlinear Aeroelastic Analysis of Highly Flexible Wings Using the Modal Rotation Method,” AIAA Scitech Forum, 2021.
   
 ## SHARPy and the Pazy wing model
 
@@ -33,7 +35,7 @@ Feel free to add your own set of results. From the Jupyter notebook file in each
 
 ## Citing
 
-This dataset is archived in Zenodo and can be cited using DOI: [![DOI](https://zenodo.org/badge/279644088.svg)](https://zenodo.org/badge/latestdoi/279644088)
+This dataset is archived in Zenodo. The latest version is stored [here](https://doi.org/10.5281/zenodo.4299868).
 
 ## References
 
