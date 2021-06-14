@@ -33,9 +33,14 @@ The Pazy wing model for SHARPy has been derived from the model available for UM/
 
 Feel free to add your own set of results. From the Jupyter notebook file in each of the tests it should be fairly straight forward to add any new cases. If you do, please make sure that the data you add requires no post-processing in order to keep the files as clean as possible. Once you have your datasets ready, please open a pull request that includes the data and modifies the corresponding Jupyter Notebooks such that the new data is shown.
 
-## Citing
+## Citing and Licence
 
 This dataset is archived in Zenodo. The latest version is stored [here](https://doi.org/10.5281/zenodo.4299868).
+
+This results dataset is made available under the [Open Database License](http://github.com/ngoiz/pazy-aepw3-results/LICENSE.txt).
+Any rights in individual contents of the database are licensed under the Database Contents License: [http://opendatacommons.org/licenses/dbcl/1.0/]
+(http://opendatacommons.org/licenses/dbcl/1.0/)
+
 
 ## References
 
