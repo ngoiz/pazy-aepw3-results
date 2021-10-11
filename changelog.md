@@ -1,5 +1,13 @@
 # Changelog
 
+# [1.2.1](https://github.com/ngoiz/pazy-aepw3-results/tree/1.2.1) (2021-10-11)
+
+SHARPy deformed flutter data included for Angles of Attack 6 and 7 degrees
+
+# [1.2](https://github.com/ngoiz/pazy-aepw3-results/tree/1.2) (2021-06-14)
+
+This new release includes the latest MRM results simulating the deformed flutter test of the Pre-Pazy wing
+
 # [1.0.1](https://github.com/ngoiz/pazy-aepw3-results/tree/v1.0.1) (2020-12-08)
 
 Minor updates to the UM data:
